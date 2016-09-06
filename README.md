@@ -1,1 +1,1 @@
-This is the initialrepo file for bwcesimplerestfz.
+This is the initial repo file for bwcesimplerestfz.
